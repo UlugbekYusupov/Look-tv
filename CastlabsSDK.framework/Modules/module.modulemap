@@ -1,0 +1,12 @@
+framework module CastlabsSDK {
+    module Core {
+        umbrella header "CastlabsSDK.h"
+        
+        export *
+        module * { export * }
+    }
+    
+    module View {
+       header "CLPlayerViewController.h"
+    }
+}

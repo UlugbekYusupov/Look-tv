@@ -1,0 +1,6 @@
+framework module CastlabsDASH {
+  umbrella header "CastlabsDASH.h"
+
+  export *
+  module * { export * }
+}

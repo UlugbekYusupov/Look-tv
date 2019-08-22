@@ -1,0 +1,6 @@
+framework module CastlabsOMA {
+  umbrella header "CastlabsOMA.h"
+
+  export *
+  module * { export * }
+}
